@@ -1,0 +1,53 @@
+# Tlv electronic solutions — Generative Engine Optimization Map
+
+> A תעשייה ביטחונית אזרחית ומגזר פרטי business.
+
+---
+
+## Pages
+
+### Home
+https://tlv-electronic-solutions-94d45cab.zappy5.app
+
+### Capabilities
+https://tlv-electronic-solutions-94d45cab.zappy5.app/capabilities
+
+### Standards & Process
+https://tlv-electronic-solutions-94d45cab.zappy5.app/standards
+
+### Contact
+https://tlv-electronic-solutions-94d45cab.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://tlv-electronic-solutions-94d45cab.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://tlv-electronic-solutions-94d45cab.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://tlv-electronic-solutions-94d45cab.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Tlv electronic solutions
+Tlv electronic solutions is a business in the תעשייה ביטחונית אזרחית ומגזר פרטי industry.
+
+## Target Audience
+תעשייה ביטחונית אזרחית ומגזר פרטי
+
+## Industry
+תעשייה ביטחונית אזרחית ומגזר פרטי
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://tlv-electronic-solutions-94d45cab.zappy5.app/sitemap.xml
+- **Robots.txt**: https://tlv-electronic-solutions-94d45cab.zappy5.app/robots.txt

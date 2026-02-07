@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tlv-electronic-solutions-94d45cab.zappy5.app/sitemap.xml
